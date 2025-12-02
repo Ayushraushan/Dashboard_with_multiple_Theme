@@ -14,8 +14,7 @@ This project provides a flexible, theme-based dashboard where users can:
 ---
 
 ## 🖼️ Sample Dashboard View
-![Dashboard Screenshot]([image-link-here](https://github.com/Ayushraushan/Dashboard_with_multiple_Theme/assets/170019138/90ca3b54-f898-4edb-856e-d30438975f05))
-
+https://github.com/Ayushraushan/Dashboard_with_multiple_Theme/assets/170019138/90ca3b54-f898-4edb-856e-d30438975f05
 ---
 
 ## 🚀 Features
