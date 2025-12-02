@@ -48,4 +48,16 @@ https://github.com/Ayushraushan/Dashboard_with_multiple_Theme/assets/170019138/9
 
 ---
 
+
 ## 📂 Project Structure
+├── Data/
+│   ├── sample-data.csv
+│   └── dataset.xlsx
+├── Themes/
+│   ├── theme-dark.json
+│   ├── theme-light.json
+│   └── theme-colorful.json
+├── Dashboard.pbix (or .xlsx)
+└── README.md
+
+
